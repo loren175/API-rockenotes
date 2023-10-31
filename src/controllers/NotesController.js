@@ -8,7 +8,7 @@ class NotesController {
     const [note_id] = await knex("notes").insert({
       title,
       description,
-      user_id,
+      user_id
     })
 
     const linksInsert = links.map((link) => {
