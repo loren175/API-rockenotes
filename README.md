@@ -4,7 +4,7 @@
 
 > Backend do projeto RocketNotes
 
-Uma API que será utilizada como backend para o projeto RocketNotes, feita através do curso Explorer da Rocketseat (Stage 08). Nesta API é possível registrar, alterar e deletar notas, além de criptografar dados sensíveis (como senhas) e possuir tags para pesquisa.
+Uma API que será utilizada como backend para o projeto RocketNotes. Nesta API é possível registrar, alterar e deletar notas e usuários com o método CRUD, além de criptografar dados sensíveis (como senhas) e possuir tags para pesquisa.
 
 
 ## 👋 Softwares para visualização
